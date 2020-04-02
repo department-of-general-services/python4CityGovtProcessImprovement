@@ -1,0 +1,94 @@
+Silicone,Silicone,Plastic,Plastic,Shelter,Large_Printer,Unlocked,+1.0U/s,Extra Large
+Rubber,Rubber,Aluminum Alloy,Aluminum Alloy,Large Rover,Large_Printer,5000,-1.0U/s,Extra Large
+Aluminum,Aluminum,,,Small Shuttle,Large_Printer,1500,,Extra Large
+Ceramic,Ceramic,Aluminum Alloy,,Medium Shuttle,Large_Printer,3750,,Extra Large
+Ceramic,Ceramic,Titanium Alloy,Titanium Alloy,Large Shuttle,Large_Printer,5000,,Extra Large
+Ceramic,Ceramic,Plastic,Plastic,Extra Large Storage,Large_Printer,2000,,Extra Large
+Ceramic,Ceramic,Aluminum Alloy,,Large Storage Ring,Large_Printer,2500,,Medium
+Ceramic,Ceramic,Iron,Iron,Extra Large Platform A,Large_Printer,2000,,Extra Large
+Iron,Iron,Iron,Iron,Extra Large Platform B,Large_Printer,3000,,Extra Large
+Steel,Steel,Iron,Iron,Extra Large Platform C,Large_Printer,5000,,Extra Large
+Titanium,Titanium,Steel,Aluminum Alloy,Extra Large Curved Platform,Large_Printer,7500,,Extra Large
+Explosive Powder,Aluminum,Aluminum,Steel,Recreational Canopy,Large_Printer,4000,,Extra Large
+Titanium,Titanium,Steel,Steel,Extra Large Arch Platform,Large_Printer,7000,,Extra Large
+Aluminum Alloy,Steel,Steel,Iron,Figurine Platform,Large_Printer,6000,,Extra Large
+Graphene,Plastic,Glass,Copper,Solar Array,Large_Printer,6250,+8.0U/s,Extra Large
+Steel,Steel,Tungsten Carbide,Tungsten Carbide,Extra Large Shredder,Large_Printer,5000,,Extra Large
+Ceramic,Aluminum,,,Oxygenator,Small_Printer,1800,,Medium
+Graphene,Silicone,,,Field Shelter,Small_Printer,8000,+0.5U/s,Medium
+Glass,Plastic,,,Medium Canister,Small_Printer,2500,,Medium
+Tungsten,Aluminum,,,Medium Generator,Small_Printer,3750,+3.0U/s,Medium
+Glass,Copper,,,Medium Solar Panel,Small_Printer,3750,+2.0U/s,Medium
+Ceramic,Glass,,,Medium Wind Turbine,Small_Printer,2500,+1.0U/s,Medium
+Zinc,Lithium,,,Medium Battery,Small_Printer,3750,256 Units,Medium
+Lithium,Nanocarbon Alloy,,,RTG,Small_Printer,12500,+4.0U/s,Medium
+Graphite,Copper,,,Splitter,Small_Printer,1000,,Small
+Resin,Resin,,,Medium Storage,Small_Printer,Unlocked,,Medium
+Titanium,Titanium,,,Medium Storage Silo,Small_Printer,3000,,Medium
+Ceramic,,,,Tall Storage,Small_Printer,400,,Medium
+Resin,,,,Medium Platform A,Small_Printer,Unlocked,,Medium
+Resin,Resin,,,Medium Platform B,Small_Printer,250,,Medium
+Resin,,,,Medium Platform C,Small_Printer,400,,Medium
+Copper,,,,Tall Platform,Small_Printer,1000,,Medium
+Plastic,Plastic,,,Medium T-Platform,Small_Printer,1500,,Medium
+Iron,Iron,,,Medium Shredder,Small_Printer,1250,-1.5U/s,Medium
+Aluminum,Aluminum,,,Tractor,Small_Printer,1000,-0.074U/s,Medium
+Aluminum,Compound,,,Trailer,Small_Printer,1500,,Medium
+Compound,Compound,,,Rover Seat,Small_Printer,Unlocked,,Medium
+Ceramic,Tungsten Carbide,,,Drill Strength 1,Small_Printer,2500,-1.0U/s,Medium
+Tungsten Carbide,Titanium Alloy,,,Drill Strength 2,Small_Printer,5000,-1.0U/s,Medium
+Titanium Alloy,Diamond,,,Drill Strength 3,Small_Printer,7500,-1.0U/s,Medium
+Silicone,Aluminum Alloy,,,Paver,Small_Printer,5000,-1.0U/s,Medium
+Ammonium,Aluminum,,,Solid-Fuel Thruster,Small_Printer,500,,Medium
+Steel,Tungsten,,,Hydrazine Thruster,Small_Printer,3750,,Medium
+Rubber,Plastic,,,Medium Buggy Horn,Small_Printer,2000,,Medium
+Rubber,Tungsten,,,Winch,Small_Printer,3750,,Medium
+Compound,Compound,,,Medium Printer,Small_Printer,Unlocked,-2.0U/s,Medium
+Ceramic,Ceramic,Ceramic,,Large Storage,Medium_Printer,2000,,Large
+Aluminum Alloy,Aluminum Alloy,Aluminum Alloy,,Large Storage Silo A,Medium_Printer,5000,,Large
+Steel,Steel,Steel,,Large Storage Silo B,Medium_Printer,7500,,Large
+Ceramic,Ceramic,Aluminum Alloy,,Large Storage Ring,Medium_Printer,2500,,Medium
+Resin,Resin,,,Large Platform A,Medium_Printer,Unlocked,,Large
+Resin,Resin,Resin,,Large Platform B,Medium_Printer,500,,Large
+Iron,Iron,Iron,,Large Platform C,Medium_Printer,2500,,Large
+Plastic,Plastic,Aluminum Alloy,,Large T-Platform,Medium_Printer,4000,,Large
+Iron,Ceramic,Aluminum Alloy,,Large Curved Platform,Medium_Printer,4500,,Large
+Ceramic,Copper,Aluminum Alloy,,Large Hoop Platform A,Medium_Printer,4000,,Large
+Copper,Steel,Aluminum Alloy,,Large Hoop Platform B,Medium_Printer,6000,,Large
+Ceramic,Ceramic,Aluminum,,Landing Pad,Medium_Printer,750,,Medium
+Resin,Compound,Compound,,Research Chamber,Medium_Printer,Unlocked,-2.0U/s,Large
+Resin,Resin,Compound,,Smelting Furnace,Medium_Printer,250,-3.0U/s,Large
+Aluminum,Compound,Compound,,Soil Centrifuge,Medium_Printer,750,-4.0U/s,Large
+Tungsten,Glass,Ceramic,,Chemistry Lab,Medium_Printer,1600,-3.0U/s,Large
+Iron,Glass,Plastic,,Atmospheric Condenser,Medium_Printer,2200,-6.0U/s,Large
+Compound,Tungsten,Iron,,Trade Platform,Medium_Printer,2500,,Large
+Aluminum,Resin,Resin,,EXO Request Platform,Medium_Printer,1000,,Large
+Iron,Iron,Tungsten Carbide,,Large Shredder,Medium_Printer,2500,-3.0U/s,Large
+Aluminum,Compound,,,Buggy,Medium_Printer,1500,-0.031U/s,Large
+Rubber,Plastic,Plastic,,Medium Rover,Medium_Printer,3750,-0.5U/s,Large
+Compound,Plastic,,,Large Rover Seat,Medium_Printer,2000,,Large
+Titanium,Silicone,Steel,,Crane,Medium_Printer,4500,,Large
+Rubber,Aluminum Alloy,,,Recreational Sphere,Medium_Printer,4500,,Large
+Steel,Rubber,Plastic,,Large Fog Horn,Medium_Printer,4000,,Large
+Compound,Compound,Compound,,Large Printer,Medium_Printer,Unlocked,-3.0U/s,Large
+Organic,Resin,,,Rubber,Chemistry_Lab,Unlocked,,Small
+Compound,Carbon,,,Plastic,Chemistry_Lab,Unlocked,,Small
+Aluminum,Copper,,,Aluminum Alloy,Chemistry_Lab,Unlocked,,Small
+Carbon,Tungsten,,,Tungsten Carbide,Chemistry_Lab,Unlocked,,Small
+Graphite,Hydrazine,,,Graphene,Chemistry_Lab,Unlocked,,Small
+Graphene,Graphene,,,Diamond,Chemistry_Lab,Unlocked,,Small
+Ammonium,Ammonium,Hydrogen,,Hydrazine,Chemistry_Lab,Unlocked,,Small
+Resin,Quartz,Methane,,Silicone,Chemistry_Lab,Unlocked,,Small
+Carbon,Carbon,Sulfur,,Explosive Powder,Chemistry_Lab,Unlocked,,Small
+Carbon,Iron,Argon,,Steel,Chemistry_Lab,Unlocked,,Small
+Titanium,Graphene,Nitrogen,,Titanium Alloy,Chemistry_Lab,Unlocked,,Small
+Steel,Titanium Alloy,Helium,,Nanocarbon Alloy,Chemistry_Lab,Unlocked,,Small
+Organic,,,,Carbon,Smelting_Furnace,Unlocked,,Small
+Quartz,,,,Glass,Smelting_Furnace,Unlocked,,Small
+Clay,,,,Ceramic,Smelting_Furnace,Unlocked,,Small
+Malachite,,,,Copper,Smelting_Furnace,Unlocked,,Small
+Laterite,,,,Aluminum,Smelting_Furnace,Unlocked,,Small
+Sphalerite,,,,Zinc,Smelting_Furnace,Unlocked,,Small
+Hematite,,,,Iron,Smelting_Furnace,Unlocked,,Small
+Wolframite,,,,Tungsten,Smelting_Furnace,Unlocked,,Small
+Titanite,,,,Titanium,Smelting_Furnace,Unlocked,,Small
